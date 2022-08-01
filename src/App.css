@@ -1,5 +1,8 @@
+html,body {
+  background-color: rgb(224 , 233 , 238)
+}
+
 .App {
-  text-align: center;
 }
 
 .App-logo {
